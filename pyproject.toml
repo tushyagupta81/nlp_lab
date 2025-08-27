@@ -12,5 +12,6 @@ dependencies = [
     "pandoc>=2.4",
     "pip>=25.2",
     "rich>=14.1.0",
+    "scikit-learn>=1.7.1",
     "spacy>=3.8.7",
 ]
