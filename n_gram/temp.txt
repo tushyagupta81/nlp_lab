@@ -1,0 +1,5 @@
+the cat sat on the mat
+the cat ate the rat
+the dog chased the cat
+the dog barked loudly
+the rat ran away
