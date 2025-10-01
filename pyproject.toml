@@ -10,6 +10,7 @@ dependencies = [
     "nbconvert>=7.16.6",
     "nltk>=3.9.1",
     "notebook>=7.4.5",
+    "pandas>=2.3.3",
     "pandoc>=2.4",
     "pip>=25.2",
     "rich>=14.1.0",
